@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113712084722",
+    "project_id": "nutriformando-2c9ea",
+    "storage_bucket": "nutriformando-2c9ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113712084722:android:c5eceac378af82f732826b",
+        "android_client_info": {
+          "package_name": "com.shakya.nutriformando"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113712084722-f5bbp2k540o8qgs0rvggo4o1r6uen01v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWlCdYaYd5f63_XsYc-XvEeWLQjD6JOrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113712084722-f5bbp2k540o8qgs0rvggo4o1r6uen01v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
